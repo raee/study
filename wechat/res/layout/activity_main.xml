@@ -9,9 +9,35 @@
     tools:context=".MainActivity" >
 
     <Button
-        android:layout_width="wrap_content"
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="21dp"
         android:onClick="onClick"
         android:text="连接" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_below="@+id/username"
+        android:layout_marginTop="37dp"
+        android:ems="10"
+        android:hint="密码"
+        android:text="123" />
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/password"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="17dp"
+        android:ems="10"
+        android:hint="用户名"
+        android:text="chenrui" />
 
 </RelativeLayout>
