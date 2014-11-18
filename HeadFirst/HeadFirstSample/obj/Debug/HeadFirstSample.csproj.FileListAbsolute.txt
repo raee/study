@@ -1,0 +1,6 @@
+D:\Project\HeadFirst\HeadFirstSample\bin\Debug\HeadFirstSample.dll
+D:\Project\HeadFirst\HeadFirstSample\bin\Debug\HeadFirstSample.pdb
+D:\Project\HeadFirst\HeadFirstSample\bin\Debug\nunit.framework.dll
+D:\Project\HeadFirst\HeadFirstSample\bin\Debug\nunit.framework.xml
+D:\Project\HeadFirst\HeadFirstSample\obj\Debug\HeadFirstSample.dll
+D:\Project\HeadFirst\HeadFirstSample\obj\Debug\HeadFirstSample.pdb
